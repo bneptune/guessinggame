@@ -1,1 +1,61 @@
 /* Write your CSS code in this file */
+
+body {
+    background-image: url("vibes.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div {
+   text-align: center;
+   padding: 10px;
+    border-radius: 20px;
+    font-family: 'helvetica';
+   
+}
+
+input {
+    width: 150px;
+    height: 50px;
+    font-size: 18px
+  }
+
+.gamebox {
+    
+    background-color: white;
+    width: 500px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+.guesses {
+  font-size: 18px
+}
+  
+#header {
+    color: #FF8384;
+    font-family: 'helvetica';
+    text-align: center;  
+  }  
+
+#textstyle {
+    font-family: 'helvetica';
+    text-align: center;  
+  }  
+
+#guess2 {
+    font-family: 'helvetica';
+    text-align: center;  
+  }  
+
+#guess3 {
+    font-family: 'helvetica';
+    text-align: center;  
+  }  
+
+.button {
+    text-align: center; 
+    background-color: 	#4378EC;
+}
